@@ -1,6 +1,6 @@
 ---
 layout: program
-title: Programme
+title: Program
 description: Schedule of talks and activities
 navorder: 5
 ---
