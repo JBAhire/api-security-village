@@ -1,22 +1,22 @@
-groups:
-  - title: Programme Organisers
-    columns: true
-    members:
-      - name: Tinkle
-        surname: Chugh
-        email: t.chugh@exeter.ac.uk
-      - name: George
-        surname: De Ath
-        email: g.de.ath@exeter.ac.uk
-      - name: Paul
-        surname: Kent
-        email: p.u.kent@exeter.ac.uk
-      - name: Alma
-        surname: Rahat
-        email: a.a.m.rahat@swansea.ac.uk
-      - name: Kaifeng
-        surname: Yang
-        email: kaifeng.yang@fh-hagenberg.at
+# groups:
+#   - title: Programme Organisers
+#     columns: true
+#     members:
+#       - name: Tinkle
+#         surname: Chugh
+#         email: t.chugh@exeter.ac.uk
+#       - name: George
+#         surname: De Ath
+#         email: g.de.ath@exeter.ac.uk
+#       - name: Paul
+#         surname: Kent
+#         email: p.u.kent@exeter.ac.uk
+#       - name: Alma
+#         surname: Rahat
+#         email: a.a.m.rahat@swansea.ac.uk
+#       - name: Kaifeng
+#         surname: Yang
+#         email: kaifeng.yang@fh-hagenberg.at
   # - title: Local organizer
   #   columns: false
   #   members:

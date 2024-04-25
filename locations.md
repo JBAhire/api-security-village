@@ -1,8 +1,8 @@
 ---
-layout: locations
-title: Locations
-description: Map of conference locations
-navorder:
+layout: location
+title: Location
+description: Map of conference location
+navorder: 4
 ---
 
-Ultricies lacus sed turpis tincidunt.
+
