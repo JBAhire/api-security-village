@@ -28,7 +28,7 @@ days:
         subtitle: Building secure APIs by design. 
         category: Workshop
       - time: 15:00 to 15:30
-        title: API Authentication: The Good, the Bad, and the Ugly
+        title: "API Authentication: The Good, the Bad, and the Ugly"
         subtitle: From unwise practices to best practices of API authentication.
         category: Talk
 
